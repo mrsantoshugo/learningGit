@@ -23,6 +23,10 @@ public class WorkingWithDates {
 		System.out.println(sdf2.format(y1));
 		System.out.println(sdf2.format(y2));
 		System.out.println(sdf2.format(y2));
+		
+
+		System.out.println("boa noite");
+		System.out.println("boa 1");
 	}
 
 }

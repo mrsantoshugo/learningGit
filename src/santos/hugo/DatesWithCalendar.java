@@ -25,6 +25,7 @@ public class DatesWithCalendar {
 //		System.out.println(sdf.format(d));
 		
 		System.out.println(month);
+		System.out.println("boa noite");
 	}
 
 }
