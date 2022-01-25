@@ -22,6 +22,7 @@ public class WorkingWithDates {
 		System.out.println(sdf2.format(x2));
 		System.out.println(sdf2.format(y1));
 		System.out.println(sdf2.format(y2));
+		System.out.println(sdf2.format(y2));
 	}
 
 }
